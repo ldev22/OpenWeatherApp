@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="dialog_message">"Allow <b>WeatherApp</b> to access your \nlocation?\n\n\nYou can turn this feature on or off \nin Settings."</string>
+</resources>
